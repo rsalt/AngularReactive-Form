@@ -1,7 +1,6 @@
-# Auth0-Angulr2
-<a href="https://auth0.com/docs/quickstart/spa/angular2">
-![angular 2 with auth0](https://cloud.githubusercontent.com/assets/13706104/22183892/5304479a-e0ee-11e6-8659-f6c39d211447.png)
+# Angular Reactive From
+<a href="#">
+![reactive form](https://cloud.githubusercontent.com/assets/13706104/22860318/fe35cfd0-f11f-11e6-8ca1-c76358808d30.png)
 </a>
 <br>
-Managing authentication in your Angular 2 apps using Auth0 (Facebook, google, twitter)
-
+Angular 2 Form Using ReactiveJS and PUB-SUB Architecture for Realtime getter and setter to server.
